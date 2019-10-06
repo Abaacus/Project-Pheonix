@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bad8b17b09e4453998aeb327468437, type: 3}
+  m_Name: gTulip
+  m_EditorClassIdentifier: 
+  growthTimes:
+  - 4
+  - 4
+  - 4
+  - 6
+  - 8
+  witherTimes:
+  - 20
+  - 20
+  - 15
+  - 10
+  - 10
+  growthSprites:
+  - {fileID: -4316658152936962599, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  - {fileID: -1584058981648703615, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  - {fileID: 5780638894345887515, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  - {fileID: -1450760281413163542, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  - {fileID: 7036069995987711541, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  witherSprites:
+  - {fileID: 4593468225023246650, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  - {fileID: -134891550851082784, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  - {fileID: -2815760406339030640, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  - {fileID: 5363600688118654419, guid: e5c124f0fc11646e681ed27e97c742b5, type: 3}
+  mutateChanceWeights: 4b00000019000000
+  mutatables:
+  - {fileID: 0}
+  - {fileID: 0}
+  dropRate: 12

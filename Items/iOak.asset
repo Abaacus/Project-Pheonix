@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40d86af80ecc4a60a4dd57bf602c297, type: 3}
+  m_Name: iOak
+  m_EditorClassIdentifier: 
+  name: Oak Seed
+  prefab: {fileID: 8054328923286169544, guid: 09462a96a47184adeab1483cede5412d, type: 3}
+  plantObject: {fileID: 4176601495953245779, guid: cd99c0615855e4096b541450562bb3d0,
+    type: 3}
+  icon: {fileID: 21300000, guid: b7b8f155017704bb892cbea7638114ac, type: 3}
+  isDefaultItem: 0
+  itemStackSize: 6

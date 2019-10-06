@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40d86af80ecc4a60a4dd57bf602c297, type: 3}
+  m_Name: iTulip
+  m_EditorClassIdentifier: 
+  name: Tulip Seed
+  prefab: {fileID: 9002584794811973150, guid: cd7343f3c13f3429ba73d540ee197abd, type: 3}
+  plantObject: {fileID: 2889320822064371329, guid: 252c501ed15c84ef3a38d713a546bcd1,
+    type: 3}
+  icon: {fileID: 0}
+  isDefaultItem: 0
+  itemStackSize: 4

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b40d86af80ecc4a60a4dd57bf602c297, type: 3}
+  m_Name: iSpruce
+  m_EditorClassIdentifier: 
+  name: iSpruce
+  prefab: {fileID: 7759577392091993101, guid: fd90e43e986744d1582db51879ad4fd7, type: 3}
+  plantObject: {fileID: 0}
+  icon: {fileID: 21300000, guid: c89eb1001903a49949e645db7c3364ac, type: 3}
+  isDefaultItem: 0
+  itemStackSize: 6

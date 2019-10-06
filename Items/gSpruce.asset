@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bad8b17b09e4453998aeb327468437, type: 3}
+  m_Name: gSpruce
+  m_EditorClassIdentifier: 
+  growthTimes:
+  - 7
+  - 7
+  - 7
+  - 7
+  - 7
+  witherTimes:
+  - 15
+  - 15
+  - 15
+  - 15
+  - 15
+  growthSprites:
+  - {fileID: -1713743543631904915, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  - {fileID: -9178106303452272093, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  - {fileID: 8424653963251918716, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  - {fileID: 1202909592892216869, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  - {fileID: 777185909216398050, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  witherSprites:
+  - {fileID: 2022901389137406384, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  - {fileID: 5550904284473167057, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  - {fileID: 6391420777968867373, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  - {fileID: -8223879707105311161, guid: b8759282431cd43b09f85e9a13933916, type: 3}
+  mutateChanceWeights: 4b00000019000000
+  mutatables:
+  - {fileID: 11400000, guid: afbe2dd9e353f4513b678a3a64dd378a, type: 2}
+  - {fileID: 11400000, guid: 3ff8b8c0e8cbc40f392be89d8e2f6d42, type: 2}
+  dropRate: 20
